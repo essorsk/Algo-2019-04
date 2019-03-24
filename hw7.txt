@@ -1,0 +1,5 @@
+Created new git client shessor
+forked gbl-2019-03-23 project
+created new Ubuntu user git
+working folder /git/
+Now test pull&push functions
